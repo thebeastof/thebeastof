@@ -11,5 +11,5 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with nothing <int>until further notice</int>.
 - 💬 Ask me about nothing because I am not experienced in software engineering.
 - 📫 How to reach me: Don't.
-- ⚡ Fun fact: I tried the Khan Academy Software engineering course. Don't do it. It is better if you use Code HS
+- ⚡ Fun fact: I tried the Khan Academy Software engineering course. Don't do it. It is better if you use Jet Brains
 
